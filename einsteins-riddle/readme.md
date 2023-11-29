@@ -2,6 +2,12 @@
 
 https://www.rd.com/article/einsteins-riddle-solve-it/
 
+> Here’s the setup:
+> - There are five houses, each painted a different color.
+> - In each house lives a person with a different nationality.
+> - These five owners drink a certain type of beverage, smoke a certain brand of cigar, and keep a certain pet.
+> - No owners have the same pet, smoke the same cigar, or drink the same beverage.
+>   
 > The question is, who owns the fish?
 >
 > Here are the clues:
